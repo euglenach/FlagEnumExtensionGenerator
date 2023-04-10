@@ -1,0 +1,2 @@
+# FlagEnumExtensionGenerator
+Enumの拡張メソッドを生成するジェネレーター
